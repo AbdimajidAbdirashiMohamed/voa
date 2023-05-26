@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: verdana,sans-serif;
+}
+h1{
+    margin: 0 auto;
+    width: 10%;
+}
+.top{
+    height: 100%;
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position:absolute ;
+    right: 300px;
+    top: 50px;
+
+
+}
+
+.butom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+
+}
+.gr{
+    text-decoration: underline;
+    color: grey;
+    font-weight: bolder;
+}
+button{
+    background-color: blue;
+    width: 200px;
+    padding: 10px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    border: none;
+}
